@@ -21,3 +21,15 @@ If the data entered is correct you will be taken to the dashboard, otherwise an 
 on the login screen there is also a button to remember the logged in user, if this check is selected from the second start of the program the login will be carried out automatically.
 
 ## 4. Dashboard
+This screen is the main one of the entire program: it allows you to access the 3 main functions:
+- SinglePlayer
+- MultiPlayer
+- Settings
+
+once the dashboard is opened, the music will start playing and will not stop when you change screen.
+
+By pressing Singleplayer you will be taken directly to the match. in singleplayer mode it is not possible to choose the icon to use (X or O), but it will still be possible to use the skins unlocked from the settings.
+By pressing Multiplayer you will be taken to a screen where you can choose the names of the players (one must necessarily be the name of the account with which you logged in, while the other can be chosen).
+Using the settings button you will be taken to a screen where you can see the nickname and points of your account (with points you can unlock skins, points are earned by winning games: each game won gives 10 points.
+you will then find a button to access the skin unlock panel (a page separate from the main settings. On this page you will find two sections: one dedicated to the X icon and one dedicated to the O icon. You will only be able to unlock the skins if you have enough points (100 for the first to unlock and 200 for the second)
+on both settings pages you will find a button at the top left to return to the dashboard.

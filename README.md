@@ -20,7 +20,7 @@ Once the setup is completed you will be taken to the login page where you will h
 If the data entered is correct you will be taken to the dashboard, otherwise an error message will appear and you will have to try again.
 on the login screen there is also a button to remember the logged in user, if this check is selected from the second start of the program the login will be carried out automatically.
 
-## 4. Dashboard
+## 4. Dashboard & Settings
 This screen is the main one of the entire program: it allows you to access the 3 main functions:
 - SinglePlayer
 - MultiPlayer
@@ -33,3 +33,10 @@ By pressing Multiplayer you will be taken to a screen where you can choose the n
 Using the settings button you will be taken to a screen where you can see the nickname and points of your account (with points you can unlock skins, points are earned by winning games: each game won gives 10 points.
 you will then find a button to access the skin unlock panel (a page separate from the main settings. On this page you will find two sections: one dedicated to the X icon and one dedicated to the O icon. You will only be able to unlock the skins if you have enough points (100 for the first to unlock and 200 for the second)
 on both settings pages you will find a button at the top left to return to the dashboard.
+
+## 5. SinglePlayer
+the singleplayer mode is a page where the player can play without the need for a companion, playing against the AI. The computer in version V1.0.1 only makes random choices. when the page opens, the first move will be made by the player, followed by the computer. the state of the table will be checked as soon as the mouse cursor leaves the buttons. the tie will end as soon as one of the two players reaches 5 points.
+
+## 6. MultiPlayer
+the multiplayer mode is used to have a two against 2 challenge. The starting player is always X, but this time it is possible to choose the roles before starting the game. here too you can use previously unlocked skins. the game will end once 5 points have been reached, awarding 10 points in both cases (the points are added to the account with which you logged in).
+
